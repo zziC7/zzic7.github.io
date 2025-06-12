@@ -38,6 +38,13 @@ My research interests include speech signal processing (Automatic Speech Recogni
 - *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP Group, Shanghai, China.
 
 # 💬 Academic Experience
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India(Online)
+- *2025.01*, Reviewer of ICME 2025.
+- *2024.10*, Speaker at CSMT 2024 Forum: Piano Transcription
+- *2024.10*, Reviewer of ICASSP 2025.
+- *2024.09*, Reviewer of SPECOM 2025.
+- *2024.06*, Reviewer of MLSP 2024.
+- *2023.11*, Reviewer of ICASSP 2024.
+- *2023.10*, Reviewer of TASLP.
+- *2023.06*, Speaker at CSMT 2023 Forum: Speech of Depression Detection
 
