@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master's student at the FD-LAMT (Fudan University - Laboratory of Audio, Music and Speech Technology), School of Computer Science, Fudan University. My research is supervised by Professor Wei Li.
+I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University - Laboratory of Audio, Music and Speech Technology), School of Computer Science, Fudan University. My research is supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
 
 
 # 🔥 News
