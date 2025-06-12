@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University - Laboratory of Audio, Music and Speech Technology), School of Computer Science, Fudan University. My research is supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
+I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University - Laboratory of Audio and Music Technology), School of Computer Science, Fudan University. My research is supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
 
 My research interests include speech signal processing (Automatic Speech Recognition, Speaker Diarization, Text-to-Speech), music information retrieval (Beat Tracking, Music Source Separation), and music multimodality. If you are seeking any form of academic cooperation, please feel free to email me at zczhang23@m.fudan.edu.cn!
 
@@ -42,11 +42,13 @@ My research interests include speech signal processing (Automatic Speech Recogni
 # 💬 Academic Experience
 <span class='anchor' id='-academic-experience'></span>
 - *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India (Online)
+- *2025.02 - 2025.07*, TA of "Speech Processing" in Tibet Unive (Online)
 - *2025.01*, Reviewer of ICME 2025.
 - *2024.10*, Speaker at CSMT 2024 Forum: Piano Transcription
 - *2024.10*, Reviewer of ICASSP 2025.
 - *2024.09*, Reviewer of SPECOM 2025.
 - *2024.06*, Reviewer of MLSP 2024.
+- *2024.02 - 2024.06*, TA of "The Convergence of Audio and Computer Science" in Fudan University
 - *2023.11*, Reviewer of ICASSP 2024.
 - *2023.10*, Reviewer of TASLP.
 - *2023.06*, Speaker at CSMT 2023 Forum: Speech of Depression Detection
