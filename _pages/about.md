@@ -38,7 +38,7 @@ My research interests include speech signal processing (Automatic Speech Recogni
 - *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP Group, Shanghai, China.
 
 # 💬 Academic Experience
-- *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India(Online)
+- *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India (Online)
 - *2025.01*, Reviewer of ICME 2025.
 - *2024.10*, Speaker at CSMT 2024 Forum: Piano Transcription
 - *2024.10*, Reviewer of ICASSP 2025.
