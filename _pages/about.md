@@ -22,10 +22,6 @@ I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/
 My research interests include speech signal processing (Automatic Speech Recognition, Speaker Diarization, Text-to-Speech), music information retrieval (Beat Tracking, Music Source Separation), and music multimodality.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -43,8 +39,8 @@ My research interests include speech signal processing (Automatic Speech Recogni
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.06 (now)*, Master in Computer Technology (Artificial Intelligence), School of Computer Science and Technology, Fudan University, Shanghai.
+- *2019.09 - 2023.06*, Bachelor in Geographic Information Science(GIS), Geographic Information Science, Zhejiang Univeristy, Hangzhou.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
