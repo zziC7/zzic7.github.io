@@ -41,15 +41,15 @@ My research interests include speech signal processing (Automatic Speech Recogni
 
 # 💬 Academic Experience
 <span class='anchor' id='-academic-experience'></span>
-- *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India (Online)
-- *2025.02 - 2025.07*, TA of "Speech Processing" in Tibet University (Online)
+- *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India (Online).
+- *2025.02 - 2025.07*, TA of "Speech Processing" in Tibet University (Online).
 - *2025.01*, Reviewer of ICME 2025.
-- *2024.10*, Speaker at CSMT 2024 Forum: Piano Transcription
+- *2024.10*, Speaker at CSMT 2024 Forum: Piano Transcription.
 - *2024.10*, Reviewer of ICASSP 2025.
 - *2024.09*, Reviewer of SPECOM 2025.
 - *2024.06*, Reviewer of MLSP 2024.
-- *2024.02 - 2024.06*, TA of "The Convergence of Audio and Computer Science" in Fudan University
+- *2024.02 - 2024.06*, TA of "The Convergence of Audio and Computer Science" in Fudan University.
 - *2023.11*, Reviewer of ICASSP 2024.
 - *2023.10*, Reviewer of TASLP.
-- *2023.06*, Speaker at CSMT 2023 Forum: Speech of Depression Detection
+- *2023.06*, Speaker at CSMT 2023 Forum: Speech of Depression Detection.
 
