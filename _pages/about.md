@@ -51,5 +51,5 @@ My research interests include speech signal processing (Automatic Speech Recogni
 - *2024.02 - 2024.06*, TA of "The Convergence of Music and Computer Science" in Fudan University.
 - *2023.11*, Reviewer of ICASSP 2024.
 - *2023.10*, Reviewer of TASLP.
-- *2023.06*, Speaker at CSMT 2023 Forum: Speech of Depression Detection.
+- *2023.06*, Speaker at CSMT 2023 Forum: Depression Speech Detection.
 
