@@ -19,6 +19,8 @@ redirect_from:
 
 I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University - Laboratory of Audio, Music and Speech Technology), School of Computer Science, Fudan University. My research is supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
 
+My research interests include speech signal processing (Automatic Speech Recognition, Speaker Diarization, Text-to-Speech), music information retrieval (Beat Tracking, Music Source Separation), and music multimodality.
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -39,10 +41,6 @@ I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
