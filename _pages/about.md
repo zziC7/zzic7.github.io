@@ -34,7 +34,7 @@ My research interests include speech signal processing (Automatic Speech Recogni
 - *2019.09 - 2023.06*, Bachelor in Geographic Information Science (GIS), School of Earth Sciences, Zhejiang Univeristy, Hangzhou.
 
 # 💻 Internships
-- *2025.03 - now*, ByteDance<img src='images/bytedance' alt='ByteDance Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, Capcut, Multimedia Team, Shanghai, China.
+- *2025.03 - now*, ByteDance<img src='images/bytedance.jpg' alt='ByteDance Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, Capcut, Multimedia Team, Shanghai, China.
 - *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP Group, Shanghai, China.
 
 # 💬 Academic Experience
