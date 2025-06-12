@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University - Laboratory of Audio and Music Technology), School of Computer Science, Fudan University. My research is supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
 
-My research interests include speech signal processing (Automatic Speech Recognition, Speaker Diarization, Text-to-Speech), music information retrieval (Beat Tracking, Music Source Separation), and music multimodality. If you are seeking any form of academic cooperation, please feel free to email me at zczhang23@m.fudan.edu.cn!
+My research interests include speech signal processing (Automatic Speech Recognition, Speaker Diarization, Text-to-Speech), music information retrieval (Beat Tracking, Music Source Separation) and music multimodality. If you are seeking any form of academic cooperation, please feel free to email me at zczhang23@m.fudan.edu.cn!
 
 
 # 📝 Publications 
