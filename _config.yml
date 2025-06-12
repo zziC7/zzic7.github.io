@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "zziC7"
-description              : "Homepage of zziC7"
+description              : "Focusing on speech, music information retrieval and multi-modal learning."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhicheng Zhang(张志城)"
+  name             : "Zhicheng Zhang   (张志城)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : ""
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
