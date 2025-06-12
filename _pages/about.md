@@ -23,21 +23,24 @@ My research interests include speech signal processing (Automatic Speech Recogni
 
 
 # 📝 Publications 
-
+<span class='anchor' id='-publications'></span>
 - [BeatKAN: An Efficient and Drum-Attuned Beat Tracking Method Using Kolmogorov-Arnold Networks](https://ieeexplore.ieee.org/abstract/document/10889959), **Zhicheng Zhang**, Ganghui Ru, Wei Li, **ICASSP 2025**
 
 - [Adaptive Differential Denoising for Respiratory Sounds Classification](https://arxiv.org/pdf/2506.02505), Gaoyang Dong, **Zhicheng Zhang**, Ping Sun, Minghui Zhang, **InterSpeech 2025**
   
 
 # 📖 Educations
+<span class='anchor' id='-educations'></span>
 - *2023.09 - 2026.06 (now)*, Master in Computer Technology (Artificial Intelligence), School of Computer Science and Technology, Fudan University, Shanghai.
 - *2019.09 - 2023.06*, Bachelor in Geographic Information Science (GIS), School of Earth Sciences, Zhejiang Univeristy, Hangzhou.
 
 # 💻 Internships
+<span class='anchor' id='-internships'></span>
 - *2025.03 - now*, ByteDance<img src='images/bytedance.jpg' alt='ByteDance Logo' style='height:3em; vertical-align:middle; margin:0 4px;'>, Capcut, Multimedia Team, Shanghai, China.
 - *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP Group, Shanghai, China.
 
 # 💬 Academic Experience
+<span class='anchor' id='-academic-experience'></span>
 - *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India (Online)
 - *2025.01*, Reviewer of ICME 2025.
 - *2024.10*, Speaker at CSMT 2024 Forum: Piano Transcription
