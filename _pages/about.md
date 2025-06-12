@@ -24,12 +24,10 @@ My research interests include speech signal processing (Automatic Speech Recogni
 
 # 📝 Publications 
 
+- [BeatKAN: An Efficient and Drum-Attuned Beat Tracking Method Using Kolmogorov-Arnold Networks](https://ieeexplore.ieee.org/abstract/document/10889959), **Zhicheng Zhang**, Ganghui Ru, Wei Li, **ICASSP 2025**
 
-[BeatKAN: An Efficient and Drum-Attuned Beat Tracking Method Using Kolmogorov-Arnold Networks](https://ieeexplore.ieee.org/abstract/document/10889959)**Zhicheng Zhang**, Ganghui Ru, Wei Li, **ICASSP 2025**
-
-</div>
-</div>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Adaptive Differential Denoising for Respiratory Sounds Classification](https://arxiv.org/pdf/2506.02505), Gaoyang Dong, **Zhicheng Zhang**, Ping Sun, Minghui Zhang, **InterSpeech 2025**
+  
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master in Computer Technology (Artificial Intelligence), School of Computer Science and Technology, Fudan University, Shanghai.
