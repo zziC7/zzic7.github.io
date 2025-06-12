@@ -31,10 +31,11 @@ My research interests include speech signal processing (Automatic Speech Recogni
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master in Computer Technology (Artificial Intelligence), School of Computer Science and Technology, Fudan University, Shanghai.
-- *2019.09 - 2023.06*, Bachelor in Geographic Information Science(GIS), School of Earth Sciences, Zhejiang Univeristy, Hangzhou.
+- *2019.09 - 2023.06*, Bachelor in Geographic Information Science (GIS), School of Earth Sciences, Zhejiang Univeristy, Hangzhou.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - now*, ByteDance, Capcut, Multimedia Team, Shanghai, China.
+- *2024.10 - 2025.02*, Huolala, NLP Group, Shanghai, China.
 
 # 💬 Academic Experience
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
