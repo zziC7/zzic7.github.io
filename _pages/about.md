@@ -26,7 +26,7 @@ My research interests include speech signal processing (Automatic Speech Recogni
 <span class='anchor' id='-publications'></span>
 - [BeatKAN: An Efficient and Drum-Attuned Beat Tracking Method Using Kolmogorov-Arnold Networks](https://ieeexplore.ieee.org/abstract/document/10889959), **Zhicheng Zhang**, Ganghui Ru, Wei Li, **ICASSP 2025**
 
-- [Adaptive Differential Denoising for Respiratory Sounds Classification](https://arxiv.org/pdf/2506.02505), Gaoyang Dong, **Zhicheng Zhang**, Ping Sun, Minghui Zhang, **InterSpeech 2025**
+- [Adaptive Differential Denoising for Respiratory Sounds Classification](https://arxiv.org/pdf/2506.02505), Gaoyang Dong, **Zhicheng Zhang**, Ping Sun, Minghui Zhang, **Interspeech 2025**
   
 
 # 📖 Educations
