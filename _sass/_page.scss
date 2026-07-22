@@ -425,3 +425,21 @@
   object-fit: contain;
   object-position: center;
 }
+
+.company-logo--mosi {
+  width: 3em;
+  height: 0.95em;
+  vertical-align: -0.14em;
+}
+
+.profile-email {
+  color: #0366d6;
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+
+  &:hover,
+  &:focus {
+    color: #024ea4;
+    text-decoration: underline;
+  }
+}

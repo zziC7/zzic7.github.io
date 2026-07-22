@@ -136,6 +136,16 @@
   font-size: $type-size-4;
 }
 
+.author__name-en,
+.author__name-zh {
+  display: block;
+  white-space: nowrap;
+}
+
+.author__name-zh {
+  margin-top: 0.25em;
+}
+
 .author__bio {
   margin: 0;
 
