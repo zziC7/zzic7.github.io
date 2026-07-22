@@ -19,7 +19,7 @@ redirect_from:
 
 I received my master's degree in Computer Technology (Artificial Intelligence) from the School of Computer Science and Technology at Fudan University in June 2026. During my master's studies, I was a member of the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University Laboratory of Audio and Music Technology), supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
 
-My research interests center on speech and music intelligence, with a particular focus on multimodal foundation models. If you are interested in academic collaboration, please feel free to contact me at <a href="mailto:zczhang23@m.fudan.edu.cn" class="profile-email">zczhang23@m.fudan.edu.cn</a>!
+My research interests center on speech and music intelligence, with a particular focus on multimodal foundation models. If you are interested in academic collaboration, please feel free to contact me at <a href="mailto:zczhang23@m.fudan.edu.cn">zczhang23@m.fudan.edu.cn</a>!
 
 
 # 📝 Publications 

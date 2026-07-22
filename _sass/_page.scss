@@ -431,15 +431,3 @@
   height: 0.75em;
   vertical-align: -0.08em;
 }
-
-.profile-email {
-  color: $link-color;
-  text-decoration: underline;
-  text-underline-offset: 0.12em;
-
-  &:hover,
-  &:focus {
-    color: $link-color-hover;
-    text-decoration: underline;
-  }
-}
