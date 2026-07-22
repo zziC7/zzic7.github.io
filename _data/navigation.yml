@@ -12,10 +12,11 @@ main:
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
+
+  - title: "Work Experience"
+    url: "/#-work-experience"
 
   - title: "Internships"
     url: "/#-internships"
-
-

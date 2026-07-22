@@ -30,14 +30,18 @@ My research interests center on speech and music intelligence, with a particular
   
 
 # 📖 Education
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='-education'></span>
 - *2023.09 - 2026.06*, Master's degree in Computer Technology (Artificial Intelligence), School of Computer Science and Technology, Fudan University, Shanghai.
 - *2019.09 - 2023.06*, Bachelor's degree in Geographic Information Science (GIS), School of Earth Sciences, Zhejiang University, Hangzhou.
+
+# 💼 Work Experience
+<span class='anchor' id='-work-experience'></span>
+- *2026.04 - now*, MOSI Intelligence<img src='images/mosi.svg' alt='MOSI Intelligence Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, Speech Algorithm Engineer, Shanghai, China.
 
 # 💻 Internships
 <span class='anchor' id='-internships'></span>
 - *2025.03 - 2025.10*, ByteDance<img src='images/bytedance.jpg' alt='ByteDance Logo' style='height:3em; vertical-align:middle; margin:0 4px;'>, Capcut, Multimedia Team, Shanghai, China.
-- *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP Group, Shanghai, China.
+- *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP & Speech Group, Shanghai, China.
 
 {% comment %}
 # 💬 Academic Experience
