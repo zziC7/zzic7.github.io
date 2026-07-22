@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master's student at the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University - Laboratory of Audio and Music Technology), School of Computer Science, Fudan University. My research is supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
+I received my master's degree in Computer Technology (Artificial Intelligence) from the School of Computer Science and Technology at Fudan University in June 2026. During my master's studies, I was a member of the [FD-LAMT](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm) (Fudan University Laboratory of Audio and Music Technology), supervised by [Prof. Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm).
 
-My research interests include speech signal processing (Automatic Speech Recognition, Speaker Diarization, Text-to-Speech), music information retrieval (Beat Tracking, Music Source Separation) and music multimodality. If you are seeking any form of academic cooperation, please feel free to email me at zczhang23@m.fudan.edu.cn!
+My research interests center on speech and music intelligence, with a particular focus on multimodal foundation models. If you are interested in academic collaboration, please feel free to contact me at zczhang23@m.fudan.edu.cn!
 
 
 # 📝 Publications 
@@ -29,16 +29,17 @@ My research interests include speech signal processing (Automatic Speech Recogni
 - [Adaptive Differential Denoising for Respiratory Sounds Classification](https://arxiv.org/pdf/2506.02505), Gaoyang Dong, **Zhicheng Zhang**, Ping Sun, Minghui Zhang, **Interspeech 2025**
   
 
-# 📖 Educations
+# 📖 Education
 <span class='anchor' id='-educations'></span>
-- *2023.09 - 2026.06 (now)*, Master in Computer Technology (Artificial Intelligence), School of Computer Science and Technology, Fudan University, Shanghai.
-- *2019.09 - 2023.06*, Bachelor in Geographic Information Science (GIS), School of Earth Sciences, Zhejiang Univeristy, Hangzhou.
+- *2023.09 - 2026.06*, Master's degree in Computer Technology (Artificial Intelligence), School of Computer Science and Technology, Fudan University, Shanghai.
+- *2019.09 - 2023.06*, Bachelor's degree in Geographic Information Science (GIS), School of Earth Sciences, Zhejiang University, Hangzhou.
 
 # 💻 Internships
 <span class='anchor' id='-internships'></span>
-- *2025.03 - now*, ByteDance<img src='images/bytedance.jpg' alt='ByteDance Logo' style='height:3em; vertical-align:middle; margin:0 4px;'>, Capcut, Multimedia Team, Shanghai, China.
+- *2025.03 - 2025.10*, ByteDance<img src='images/bytedance.jpg' alt='ByteDance Logo' style='height:3em; vertical-align:middle; margin:0 4px;'>, Capcut, Multimedia Team, Shanghai, China.
 - *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP Group, Shanghai, China.
 
+{% comment %}
 # 💬 Academic Experience
 <span class='anchor' id='-academic-experience'></span>
 - *2025.04*, Poster Presentations at ICASSP 2025, Hyderabad, India (Online).
@@ -52,4 +53,4 @@ My research interests include speech signal processing (Automatic Speech Recogni
 - *2023.11*, Reviewer of ICASSP 2024.
 - *2023.10*, Reviewer of TASLP.
 - *2023.06*, Speaker at CSMT 2023 Forum: Depression Speech Detection.
-
+{% endcomment %}
