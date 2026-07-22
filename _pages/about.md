@@ -36,12 +36,12 @@ My research interests center on speech and music intelligence, with a particular
 
 # 💼 Work Experience
 <span class='anchor' id='-work-experience'></span>
-- *2026.04 - now*, MOSI Intelligence<img src='images/mosi.svg' alt='MOSI Intelligence Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, Speech Algorithm Engineer, Shanghai, China.
+- *2026.04 - now*, MOSI Intelligence<img src='images/mosi.svg' alt='MOSI Intelligence Logo' class='company-logo'>, Speech Algorithm Engineer, Shanghai, China.
 
 # 💻 Internships
 <span class='anchor' id='-internships'></span>
-- *2025.03 - 2025.10*, ByteDance<img src='images/bytedance.jpg' alt='ByteDance Logo' style='height:3em; vertical-align:middle; margin:0 4px;'>, Capcut, Multimedia Team, Shanghai, China.
-- *2024.10 - 2025.02*, Huolala<img src='images/huolala.jpg' alt='Huolala Logo' style='height:1.5em; vertical-align:middle; margin:0 4px;'>, NLP & Speech Group, Shanghai, China.
+- *2025.03 - 2025.10*, ByteDance<img src='images/bytedance-logo.jpg' alt='ByteDance Logo' class='company-logo'>, Capcut, Multimedia Team, Shanghai, China.
+- *2024.10 - 2025.02*, Huolala<img src='images/huolala-logo.jpg' alt='Huolala Logo' class='company-logo'>, NLP & Speech Group, Shanghai, China.
 
 {% comment %}
 # 💬 Academic Experience

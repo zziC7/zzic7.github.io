@@ -410,3 +410,18 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Company logos
+   ========================================================================== */
+
+.company-logo {
+  display: inline-block;
+  width: 4em;
+  height: 1.25em;
+  margin: 0 0.4em;
+  vertical-align: -0.22em;
+  object-fit: contain;
+  object-position: center;
+}
