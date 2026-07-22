@@ -123,6 +123,10 @@ a {
     @extend %tab-focus;
   }
 
+  &:focus:not(:focus-visible) {
+    outline: 0;
+  }
+
   &:hover,
   &:active {
     outline: 0;
