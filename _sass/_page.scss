@@ -433,13 +433,13 @@
 }
 
 .profile-email {
-  color: #0366d6;
+  color: $link-color;
   text-decoration: underline;
   text-underline-offset: 0.12em;
 
   &:hover,
   &:focus {
-    color: #024ea4;
+    color: $link-color-hover;
     text-decoration: underline;
   }
 }
